@@ -1,2 +1,2 @@
-# LaravelProjects
-Sample Projects coded with php's Laravel framework and other front-end languages i.e. Vue, React, Angular and Tailwind Css
+# Academic CMS
+Laravel module for school portal that allows lecturers and students share documents and other learning materials
